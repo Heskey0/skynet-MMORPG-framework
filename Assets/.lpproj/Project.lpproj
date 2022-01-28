@@ -1,0 +1,11 @@
+<Project
+  ExecutableFilename = ""
+  EngineType = "Unity"
+  DebugParameters = ""
+  SkipSynchronizingLuaDebuggeeDll = "false"
+  SkipSynchronizingCSharpCode = "false">
+  <SourceDirectories>
+    <SourceDirectory Path = "ProjectDirectory"/>
+    <SourceDirectory Path = "C:/A/Office/Code/Unity/Proj/Game2/Lua"/>
+  </SourceDirectories>
+</Project>

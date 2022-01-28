@@ -1,0 +1,3 @@
+ID,名字,资源路径,飞行速度,半径
+ID,Name,ResPath,FlySpeed,Radius
+1,火球,Prefabs/Skill/Skill3,3,0.16

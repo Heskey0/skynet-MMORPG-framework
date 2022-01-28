@@ -1,0 +1,5 @@
+ID,名字,模型路径
+ID,Name,ModelPath
+1,Sphere,Prefabs/Npc/NpcSphere
+2,Capsule,Prefabs/Role/RoleCapsule
+3,Cube,Prefabs/Npc/NpcCube

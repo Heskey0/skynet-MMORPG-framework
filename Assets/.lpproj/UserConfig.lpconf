@@ -1,0 +1,88 @@
+<GlobalConfig CodeFontSize = "22"/>
+<BreakpointList/>
+<WatchList/>
+<ProjectUI>
+  <TreeState BaseX = "0" BaseY = "-700" AlternativeItem = "LuaFolders#Lua#Game#UI">
+    <SelectedList>
+      <Selected Path = "LuaFolders#Lua#Game#Common#Message.lua"/>
+    </SelectedList>
+    <ExpandedList>
+      <Expanded Path = "LuaFolders"/>
+      <Expanded Path = "LuaFolders#Assets#XLua"/>
+      <Expanded Path = "LuaFolders#Assets#XLua#Src"/>
+      <Expanded Path = "LuaFolders#Lua"/>
+      <Expanded Path = "LuaFolders#Lua#Common"/>
+      <Expanded Path = "LuaFolders#Lua#Common#UI"/>
+      <Expanded Path = "LuaFolders#Lua#Common#UnityEngine"/>
+      <Expanded Path = "LuaFolders#Lua#Common#Util"/>
+      <Expanded Path = "LuaFolders#Lua#Game"/>
+      <Expanded Path = "LuaFolders#Lua#Game#Common"/>
+      <Expanded Path = "LuaFolders#Lua#Game#UI"/>
+      <Expanded Path = "LuaFolders#Lua#Game#UI#FightUI"/>
+    </ExpandedList>
+  </TreeState>
+</ProjectUI>
+<FindAnReplaceUI
+  Pattern = "GlobalEventSystem"
+  MatchCase = "false"
+  MatchWholeWord = "false"
+  UseRegEx = "false"
+  Target = ""
+  Replace = ""/>
+<MainWindow
+  X = "214"
+  Y = "118"
+  Width = "1280"
+  Height = "722"
+  Maximized = "false"
+  LastCodeFilename = "C:/A/Office/Code/Unity/Proj/Game2/Lua/Common/Util/event.lua">
+  <DockingControl>
+    <DockingNode DockingDirection = "Horizontal">
+      <DockingNode DockingDirection = "None">
+        <DockingBlock Width = "260" Height = "605" DocumentStyle = "false">
+          <DockingCard
+            Text = "Project"
+            Tag = ""
+            ActivePage = "true"
+            ActivateTime = "0"/>
+          <DockingCard
+            Text = "Outline"
+            Tag = ""
+            ActivePage = "false"
+            ActivateTime = "0"/>
+        </DockingBlock>
+      </DockingNode>
+      <DockingNode DockingDirection = "None">
+        <DockingBlock Width = "1001" Height = "605" DocumentStyle = "true">
+          <DockingCard
+            Text = "GlobalEventSystem.lua"
+            Tag = "C:/A/Office/Code/Unity/Proj/Game2/Lua/Common/GlobalEventSystem.lua"
+            ActivePage = "false"
+            ActivateTime = "441514463"
+            CaretLineIndex = "16"
+            CaretCodeCharIndex = "4"
+            BaseX = "0"
+            BaseY = "0"/>
+          <DockingCard
+            Text = "LuaMain.lua"
+            Tag = "C:/A/Office/Code/Unity/Proj/Game2/Lua/LuaMain.lua"
+            ActivePage = "false"
+            ActivateTime = "442914707"
+            CaretLineIndex = "26"
+            CaretCodeCharIndex = "5"
+            BaseX = "0"
+            BaseY = "-132"/>
+          <DockingCard
+            Text = "event.lua"
+            Tag = "C:/A/Office/Code/Unity/Proj/Game2/Lua/Common/Util/event.lua"
+            ActivePage = "true"
+            ActivateTime = "442921393"
+            CaretLineIndex = "137"
+            CaretCodeCharIndex = "18"
+            BaseX = "0"
+            BaseY = "-2310"/>
+        </DockingBlock>
+      </DockingNode>
+    </DockingNode>
+  </DockingControl>
+</MainWindow>

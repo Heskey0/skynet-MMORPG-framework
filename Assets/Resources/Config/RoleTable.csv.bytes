@@ -1,0 +1,3 @@
+ID,Name,ModelPath
+1,Sphere,Prefabs/Role/RoleSphere
+2,Capsule,Prefabs/Role/RoleCapsule

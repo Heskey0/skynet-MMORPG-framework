@@ -1,0 +1,13 @@
+﻿
+
+<linker>
+
+	<assembly fullname="Assembly-CSharp">
+	    <type fullname="XLuaManager" preserve="all"/>
+		<type fullname="LuaPerfect.ObjectRef" preserve="all"/>
+		<type fullname="LuaPerfect.ObjectItem" preserve="all"/>
+		<type fullname="LuaPerfect.ObjectFormater" preserve="all"/>
+		
+	</assembly>
+
+</linker>

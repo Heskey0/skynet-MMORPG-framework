@@ -1,0 +1,5 @@
+ID,名字,描述,技能脚本,时间线,伤害,施法范围,吟唱时间,冷却时间,伤害范围,持续时间,消耗
+ID,Name,Desc,ScriptType,TimeLine,Damage,CastRange,PreTime,CD,DamageRange,DuringTime,Cost
+1,火球,一个火球,,,,,,,,,
+2,AOE,范围攻击,,,,,,,,,
+3,普通攻击,拿刀砍,,,,,,,,,
